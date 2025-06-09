@@ -150,7 +150,7 @@ Several multivariate visualizations explore the interplay between `release_year`
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/netflix-eda.git
+git clone https://github.com/akashkarn9486/netflix-eda.git
 cd netflix-eda
 ```
 
@@ -187,5 +187,5 @@ Special thanks to the contributors of open Netflix datasets and the data science
 Feel free to connect or reach out:
 
 **Akash Karn**  
-📧 akash.karn.email@gmail.com  
-📍 [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/yourusername)
+📧 akashkarn20@gmail.com  
+📍 [LinkedIn](https://www.linkedin.com/in/akash-karn-851875255) | [GitHub](https://github.com/akashkarn9486)
